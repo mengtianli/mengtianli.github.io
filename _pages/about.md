@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>No. 149, Yanchang Road, Jing'an District</p>
-    <p>Shanghai, China</p>
+    <p>No.149,Yanchang Road,Jing'an District,Shanghai,China</p>  
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
