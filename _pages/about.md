@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Lecturer of Shanghai University, Postdoc of Fudan University</a>.Shanghai, China.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>No.149,Yanchang Road,Jing'an District,Shanghai,China</p>  
+    <p>mtli@shu.edu.cn  mtli@fudan.edu.cn</p>  
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
