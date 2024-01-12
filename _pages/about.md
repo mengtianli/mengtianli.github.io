@@ -29,6 +29,6 @@ I am currently a lecturer of [Shanghai Film Academy](https://sfa.shu.edu.cn/) of
 I have super enthusiastic in exploring to apply the computer technologies in films, games, and arts! I am looking for self-motivated students. If you are highly creative, have good coding skill and interested in my group, please send me your CV via email!
 
 Research Interests: 
-* Image/audio/video/3D generation towards film and game
+* Image/audio/video/3D generation
 * Scenes understanding, reconstruction, editing
 * Human avatar modeling, animating
