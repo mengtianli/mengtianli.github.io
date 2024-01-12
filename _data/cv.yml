@@ -4,10 +4,17 @@
     - name: Full Name
       value: Li Mengtian
     - name: Languages
-      value: Chinese，English
+      value: Chinese, English
+      
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: East China Normal University, Shanghai, China
       year: 2022
+
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: Computer Vision(CV): CVPR(2022, 2023, 2024), ICCV(2023), ECCV(2023), 3DV(2023)
+    - title: Machine Learning(ML): ICLR(2023, 2024), ICML(2024), NeurIPS (2023), PR(2022)
