@@ -17,4 +17,4 @@ Undergraduate Fundamental Courses：
 * 2024 Winter, 14555275, Object-Oriented Programming(2) (面向对象程序设计 二), 40h, 3credits
 
 Undergraduate Elective Courses：
-* 2025 Spring, 14556174, Human-Computer Interaction Technology (人机交互技术) 40h, 3credits
+* 2025 Spring, 14556174, Human-Machine Interaction Technology (人机交互技术) 40h, 3credits
