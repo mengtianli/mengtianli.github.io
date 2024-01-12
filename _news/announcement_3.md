@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will join at Shanghai University as a Lecturer! 
+I will join at Shanghai Film Academy of Shanghai University as a Lecturer! 
  
