@@ -1,0 +1,21 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Li Mengtian
+    - name: Languages
+      value: Chinese, English
+      
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: Computer Vision(CV)
+      items:
+      - CVPR(2022, 2023, 2024), ICCV(2023), ECCV(2023), 3DV(2023)
+    - title: Machine Learning(ML)
+      items:
+      - ICLR(2023, 2024), ICML(2024), NeurIPS (2023), PR(2022)
+    - title: Community
+      items:
+      - Executive Committee of CCF CAD & Graphics(计算机辅助设计与图形学专业委员会)
+      - Professional committee of CSIG TCDEG(数字娱乐与智能生成专业委员会)
