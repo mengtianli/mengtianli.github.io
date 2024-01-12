@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join at [SRIBD](http://sribd.cn/) as a Research Assistant! 
+I will join at [SRIBD](http://sribd.cn/) as a research assistant! 
