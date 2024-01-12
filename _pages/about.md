@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> </a>. No. 149, Yanchang Road, Jing'an District, Shanghai, China.
+subtitle: <a href='#'> </a> No. 149, Yanchang Road, Jing'an District, Shanghai, China.
 
 profile:
   align: right
