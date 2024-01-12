@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I will join at Fudan University as a Post-doc in [FVL Lab](https://fvl.fudan.edu.cn/)! 
+I will intern at Tencent Youtu Lab with [Ruizhi](https://scholar.google.com/citations?user=IChV8y0AAAAJ&hl=zh-CN&oi=ao)! 
  
 
