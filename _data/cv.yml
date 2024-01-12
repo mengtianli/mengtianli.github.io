@@ -6,12 +6,22 @@
     - name: Languages
       value: Chinese, English
       
-- title: Education
+- title: Education and Experience
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: East China Normal University, Shanghai, China
       year: 2022
+  type: time_table
+  contents:
+    - title: Assistant Prof. 
+      institution: Shanghai University, Shanghai, China
+      year: 2023
+  type: time_table
+  contents:
+    - title: Post-doc  
+      institution: Fudan University, Shanghai, China
+      year: 2023
 
 - title: Academic Service
   type: nested_list
