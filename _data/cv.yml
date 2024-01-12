@@ -1,1 +1,16 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Li Mengtian
+    - name: Languages
+      value: Chinese，English
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: East China Normal University, Shanghai, China
+      year: 2022
 
+
+  
