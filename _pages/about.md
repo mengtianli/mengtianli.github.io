@@ -26,9 +26,9 @@ social: true # includes social icons at the bottom of the page
 I am currently a lecturer of [Shanghai Film Academy](https://sfa.shu.edu.cn/) of Shanghai University. At the same time, I am a Post-doc at the [FVL](https://fvl.fudan.edu.cn/) of Fudan University, working closely with co-supervisor [Prof. Yu-Gang Jiang](https://baike.baidu.com/item/%E5%A7%9C%E8%82%B2%E5%88%9A/22131913). I received my Ph.D. degree from East China Normal University under the supervision with [Prof. Lizhuang Ma](https://baike.baidu.com/item/%E9%A9%AC%E5%88%A9%E5%BA%84?fromModule=lemma_search-box). I also closely collaborates with [Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao), [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao) and [Prof. Shaohui Lin](https://scholar.google.com/citations?user=k8AMa1kAAAAJ&hl=zh-CN&oi=ao). My research interests include computer vision, computer graphics and machine human-computer interaction.
 
 
-I am looking for self-motivated students to join my research group! I have always been trying and exploring how to apply the aforementioned computer technologies in the fields of film, gaming, and the arts. If you are interested in computer vision, computer graphics, human-computer interaction and have full of enthusiasm for both the film and game industry, please send me your CV via email!
+I have super enthusiastic in exploring to apply the computer technologies in films, games, and arts! I am looking for self-motivated students. If you are highly creative, have good coding skill and interested in my group, please send me your CV via email!
 
-Research Interests:
+Research Interests: 
 * Image/audio/video/3D generation towards film and game
 * Scenes understanding, reconstruction, editing
 * Human avatar modeling, animating
