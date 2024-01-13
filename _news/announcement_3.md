@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will join at Shanghai Film Academy of Shanghai University as a Assistant Prof.! 
+I will join [Shanghai Film Academy](https://sfa.shu.edu.cn/) of Shanghai University as an Assistant Prof.! 
  
