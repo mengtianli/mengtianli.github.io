@@ -27,7 +27,7 @@ academic service: true # includes a list of news items
 I am currently an Assistant Prof. of [Shanghai Film Academy](https://sfa.shu.edu.cn/) at Shanghai University. At the same time, I am a Post-doc at the [FVL Lab](https://fvl.fudan.edu.cn/) of Fudan University, working closely with co-supervisor [Prof. Yu-Gang Jiang](https://baike.baidu.com/item/%E5%A7%9C%E8%82%B2%E5%88%9A/22131913). I received my Ph.D. degree from East China Normal University under the supervision of [Prof. Lizhuang Ma](https://baike.baidu.com/item/%E9%A9%AC%E5%88%A9%E5%BA%84?fromModule=lemma_search-box). I also closely collaborate with [Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao), [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao), and [Prof. Shaohui Lin](https://scholar.google.com/citations?user=k8AMa1kAAAAJ&hl=zh-CN&oi=ao). My research interests include computer vision, computer graphics, and human-machine interaction.
 
 
-I am extremely enthusiastic about exploring and applying computer technologies in the fields of Motion Pictures, Games, and Art! I am looking for self-motivated students. If you are highly creative, possess strong coding skills, and are interested in joining my group, please send your CV to me via email!
+I am super enthusiastic about exploring and applying computer technologies in the fields of Motion Pictures, Games, and Art! I am looking for self-motivated students. If you are highly creative, possess strong coding skills, and are interested in joining my group, please send your CV to me via email!
 
 Research Interests: 
 * Image/audio/video/3D generation
