@@ -20,4 +20,4 @@ Undergraduate Elective Courses：
 * 2025 Spring, 14556174, Human-Machine Interaction Technology (人机交互技术) 40h, 3credits
   
 Graduate Courses：
-* 2023 Spring, 3XSL14303, Digital media cutting-edge technology(数字媒体前沿技术) 20h, 2credits
+* 2023 Spring, 3XSL14303, Digital Media Cutting-Edge Technology(数字媒体前沿技术) 20h, 2credits
