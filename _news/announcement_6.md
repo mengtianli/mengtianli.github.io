@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join at CUHKSZ as a visiting Ph.D student in [GAP Lab](https://gaplab.cuhk.edu.cn/)! 
+I will join CUHKSZ as a visiting Ph.D student in [GAP Lab](https://gaplab.cuhk.edu.cn/)! 
