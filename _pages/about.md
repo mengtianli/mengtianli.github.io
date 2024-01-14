@@ -33,5 +33,5 @@ I am super enthusiastic about exploring and applying computer technologies in Mo
 
 Research Interests: 
 * Image/audio/video/3D generation
-* Scenes understanding, reconstruction, editing
+* Scene understanding, reconstruction, editing
 * Human avatar modeling, animating
