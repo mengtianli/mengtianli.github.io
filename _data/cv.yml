@@ -11,7 +11,7 @@
   contents:
     - title: Computer Vision (CV)
       items:
-      - CVPR (2022, 2023, 2024), ICCV (2023), ECCV (2022, 2024), TIP, TCSVT, etc
+      - CVPR (2022, 2023, 2024), ICCV (2023), ECCV (2022, 2024), ACCV (2024), TIP, TCSVT, etc
     - title: Machine Learning (ML)
       items:
       - ICLR (2023, 2024), ICML (2024), NeurIPS (2023), AAAI (2023), PR, etc
