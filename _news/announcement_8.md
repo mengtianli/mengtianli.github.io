@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I have been appointed as a Master's Research Supervisor！ 
+I have been appointed as a Master's Degree Supervisor！ 
  
