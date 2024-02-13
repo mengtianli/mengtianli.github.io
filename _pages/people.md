@@ -21,7 +21,7 @@ Master Students:
 
 Undergraduate Student:
 * 2022 Wu Yawen, He Weilin, Deng Yutong, Liang Shaozhen
-* 2021 Yao Guojian, Li Renjie, Zhang Yuqian, Wang Yanbo
+* 2021 Yao Guojian, Li Renjie, Zhang Yuqian, Wang Yanbo, Yiyan Fan
 
 
 
