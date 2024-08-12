@@ -15,13 +15,14 @@ Ph.D. Students:
 * Ding Huiming(co-supervised)
 
 Master Students:
+* 2024 Lu Yuwei, Dai Kunyan, Guo Xinru, Xiong Sifan
 * 2023 Yang Fan, Bai Yunshu, Zhang Chengyang 
 * 2022 Yao Shengxiang, Zhai Chengshuo, Yu Shengye(co-supervised)
-* 2021 Zhou Fanyin, Xiang Yincen, Zhou Qin
 
 Undergraduate Student:
-* 2022 Wu Yawen, He Weilin, Deng Yutong, Liang Shaozhen
-* 2021 Yao Guojian, Li Renjie, Zhang Yuqian, Wang Yanbo, Yiyan Fan
+* 2023 Chu Yimin, Gao Yang, Ding Haoran
+* 2022 Wu Yawen, He Weilin, Deng Yutong, Liang Shaozhen, Li Feifei
+* 2021 Yao Guojian, Li Renjie, Zhang Yuqian, Wang Yanbo, Fan Yiyan
 
 
 
