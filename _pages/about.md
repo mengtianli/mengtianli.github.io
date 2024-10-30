@@ -30,9 +30,9 @@ I currently hold a position as a Lecturer (Assistant Professor) at the [Shanghai
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 
 
-I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated Ph.D., Master, and Undergraduate students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!
+I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!
 
-我们欢迎博士生、硕士生和对科研感兴趣的本科生！如果你对计算机技术在影视、游戏、艺术领域应用感兴趣，请我邮件联系（邮件请附上个人简历）
+我们欢迎博士生、硕士生和对科研感兴趣的本科生！如果你对计算机技术在影视、游戏、艺术领域应用感兴趣，请与我邮件联系（邮件请附上个人简历）
 
 Research Interests: 
 * Image/audio/video/3D generation
