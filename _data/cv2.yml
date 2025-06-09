@@ -5,7 +5,7 @@
       value: Li Mengtian
     - name: Languages
       value: Chinese, English
-      
+
 - title: Education and Experience
   type: time_table
   contents:
@@ -13,11 +13,11 @@
       institution: East China Normal University, Shanghai, China
       year: 2022
 
-    - title: Assistant Prof. 
+    - title: Assistant Prof.
       institution: Shanghai University, Shanghai, China
       year: 2023
 
-    - title: Post-doc  
+    - title: Post-doc
       institution: Fudan University, Shanghai, China
       year: 2023
 
@@ -26,11 +26,11 @@
   contents:
     - title: Computer Vision(CV)
       items:
-      - CVPR(2022, 2023, 2024), ICCV(2023), ECCV(2023), 3DV(2023)
+        - CVPR(2022, 2023, 2024), ICCV(2023), ECCV(2023), 3DV(2023)
     - title: Machine Learning(ML)
       items:
-      - ICLR(2023, 2024), ICML(2024), NeurIPS (2023), PR(2022)
+        - ICLR(2023, 2024), ICML(2024), NeurIPS (2023), PR(2022)
     - title: Community
       items:
-      - Executive Committee of CCF CAD & Graphics(计算机辅助设计与图形学专业委员会)
-      - Professional committee of CSIG TCDEG(数字娱乐与智能生成专业委员会)
+        - Executive Committee of CCF CAD & Graphics(计算机辅助设计与图形学专业委员会)
+        - Professional committee of CSIG TCDEG(数字娱乐与智能生成专业委员会)

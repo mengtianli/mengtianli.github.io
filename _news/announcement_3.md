@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join [Shanghai Film Academy](https://sfa.shu.edu.cn/) of Shanghai University as a Lecturer! 
- 
+I will join [Shanghai Film Academy](https://sfa.shu.edu.cn/) of Shanghai University as a Lecturer!
