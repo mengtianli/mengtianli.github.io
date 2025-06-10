@@ -680,6 +680,7 @@ footer.sticky-bottom {
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+        min-width: 60px;
 
         abbr {
           display: inline-block;
@@ -704,11 +705,11 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
-        width: 100%;
+        width: auto;
       }
 
       .author {
-        width: 100%;
+        width: auto;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
