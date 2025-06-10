@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <style>
-.periodical {
+.bibliography .type {
   display: none !important;
 }
 </style>
