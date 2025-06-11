@@ -303,6 +303,7 @@ scholar:
   query: "@*"
   group_by: type
   group_order: descending
+  group_name: {}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
