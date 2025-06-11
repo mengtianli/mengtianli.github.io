@@ -16,10 +16,8 @@ Undergraduate Fundamental Courses：
 - 2025 Spring, 14555117, Computer Graphics (计算机图形学) 50h, 4credits
 - 2024 Spring, 14555117, Computer Graphics (计算机图形学) 50h, 4credits
 - 2023 Spring, 14555117, Computer Graphics (计算机图形学) 50h, 4credits
--
 - 2024 Fall, 14555274, Object-Oriented Programming(1) (面向对象程序设计 1) 40h, 3credits
 - 2024 Winter, 14555275, Object-Oriented Programming(2) (面向对象程序设计 2) 40h, 3credits
--
 - 2024 Fall, 14995011, Advanced-Language Programming(1) (高级语言程序设计 1) 40h, 3credits
 - 2024 Winter, 14995012, Advanced-Language Programming(2) (高级语言程序设计 2) 40h, 3credits
 
