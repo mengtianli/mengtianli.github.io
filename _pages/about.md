@@ -34,8 +34,9 @@ I am super enthusiastic about exploring and applying computer technologies in Mo
 
 我们欢迎博士生、硕士生和本科生！如果你对人工智能和具身智能技术在影视、动画、游戏、艺术领域应用感兴趣、有思考、执行力强，请与我邮件联系（邮件请附上个人简历）
 
-Research Interests:
+<!--Research Interests:
 
 - Image/audio/video/3D generation
 - Scene understanding, reconstruction, editing
 - Human avatar modeling, animating
+-->
