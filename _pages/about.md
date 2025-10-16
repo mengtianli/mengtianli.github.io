@@ -31,8 +31,10 @@ I currently hold a position as a Lecturer (Assistant Professor) at the [Shanghai
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 
 I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Animation, Games, and Art! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!
+我们欢迎博士生、硕士生和本科生！ 如果你对人工智能和具身智能技术在影视、动画、游戏、艺术领域应用感兴趣、有思考、执行力强，请与我邮件联系（邮件请附上个人简历）
 
-我们欢迎博士生、硕士生和本科生！如果你对人工智能和具身智能技术在影视、动画、游戏、艺术领域应用感兴趣、有思考、执行力强，请与我邮件联系（邮件请附上个人简历）
+Get More Information on our lab website: [MAGIC Lab](https://www.magic-lab.tech/)
+
 
 <!--Research Interests:
 
