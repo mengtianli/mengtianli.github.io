@@ -2,3 +2,8 @@
 **/*.min.js
 assets/css/main.scss
 assets/plotly/demo.html
+# Ignore vendor Distill compiled JS (keep source maps untouched)
+assets/js/distillpub/template.v2.js
+assets/js/distillpub/transforms.v2.js
+assets/js/distillpub/template.v2.js.map
+assets/js/distillpub/transforms.v2.js.map
