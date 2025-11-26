@@ -35,7 +35,6 @@ I am super enthusiastic about exploring and applying computer technologies in Mo
 
 Get More Information on our lab website: [MAGIC Lab](https://www.magic-lab.tech/)
 
-
 <!--Research Interests:
 
 - Image/audio/video/3D generation
