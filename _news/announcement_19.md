@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted in IROS2025！
+One paper was accepted in IROS 2025！
