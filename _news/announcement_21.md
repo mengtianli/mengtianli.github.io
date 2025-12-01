@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted in AAAI2026！
+One paper was accepted in AAAI 2026！

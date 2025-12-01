@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers were accepted in ICASSP2025！
+Two papers were accepted in ICASSP 2025！
