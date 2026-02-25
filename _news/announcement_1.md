@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-11-24
+date: 2020-12-11
 inline: true
 related_posts: false
 ---
 
-I have passed my Ph.D. Dissertation Defense!
+I will join [SRIBD](http://sribd.cn/) as a research assistant!

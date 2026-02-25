@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-12-21
+date: 2024-12-11
 inline: true
 related_posts: false
 ---
 
-Two papers were accepted in ICASSP 2025！
+One paper was accepted in AAAI 2025！

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-03-10
+date: 2021-06-10
 inline: true
 related_posts: false
 ---
 
-I will join [Shanghai Film Academy](https://sfa.shu.edu.cn/) of Shanghai University as a Lecturer!
+I will intern at Tencent Youtu Lab with [Dr. Ruizhi Qiao](https://scholar.google.com/citations?user=IChV8y0AAAAJ&hl=zh-CN&oi=ao)!

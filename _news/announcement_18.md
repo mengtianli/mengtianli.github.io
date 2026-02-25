@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-06
+date: 2025-03-16
 inline: true
 related_posts: false
 ---
 
-One paper was accepted in ACMMM 2025！
+Three papers were accepted in CVPR 2025！

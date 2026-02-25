@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-19
+date: 2020-12-11
 inline: true
 related_posts: false
 ---
 
-One paper won the CAD/Graphics 2023 Best Paper Award!
+I will join CUHKSZ as a visiting Ph.D student in [GAP Lab](https://gaplab.cuhk.edu.cn/) with [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN)!

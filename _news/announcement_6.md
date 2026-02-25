@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-12-11
+date: 2023-04-15
 inline: true
 related_posts: false
 ---
 
-I will join CUHKSZ as a visiting Ph.D student in [GAP Lab](https://gaplab.cuhk.edu.cn/) with [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN)!
+I have been appointed as a Master's Degree Supervisor！

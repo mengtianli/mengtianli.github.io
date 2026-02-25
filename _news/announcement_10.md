@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-27
+date: 2024-02-10
 inline: true
 related_posts: false
 ---
 
-One paper was accepted in CVPR 2024！
+I have been elected as an executive committee member of [GAMES](https://games-cn.org/about-games/)！

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-06
+date: 2022-11-24
 inline: true
 related_posts: false
 ---
 
-I will join Fudan University as a Post-doc in [FVL Lab](https://fvl.fudan.edu.cn/)!
+I have passed my Ph.D. Dissertation Defense!
