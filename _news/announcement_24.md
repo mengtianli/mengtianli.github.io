@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two paper was accepted in CGF, CHI Poster 2026!
+Two papers were accepted by CGF and the CHI 2026 Poster track, respectively！
