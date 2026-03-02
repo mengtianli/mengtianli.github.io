@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers and one finding were accepted in CVPR 2026！
+Two papers, One finding paper were accepted in CVPR 2026！
