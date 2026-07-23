@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted to AIGGRAPH Asia 2026! 
+One paper was accepted to SIGGRAPH Asia 2026! 
