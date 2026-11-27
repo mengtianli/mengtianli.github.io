@@ -21,11 +21,9 @@ academic service: true # includes a list of news items
 I am an Assistant Professor at the [Shanghai Film Academy](https://sfa.shu.edu.cn/), Shanghai University（上海大学上海电影学院）.
 
 I also serve as a Faculty Mentor at the Shanghai Innovation Institute (SII)（上海创智学院导师）, hold a joint appointment at the School of Computer Engineering and Science, Shanghai University（上海大学计算机学院联聘）, and am affiliated with the Shanghai Engineering Research Center for Film Special Effects（上海电影特效工程技术研究中心）.
-
 I am also a postdoctoral researcher at Fudan University and the Principal Investigator (PI) of [MAGIC Lab](https://www.magic-lab.tech/).
 
 I received my Ph.D. degree under the supervision of [Prof. Lizhuang Ma](https://baike.baidu.com/item/马利庄) and conduct postdoctoral research under the supervision of [Prof. Yu-Gang Jiang](https://baike.baidu.com/item/姜育刚/22131913) at Fudan University.
-
 I also closely collaborate with [Prof. Xipeng Qiu](https://xpqiu.github.io/index.html) and [Prof. Guangnan Ye](https://cs.fudan.edu.cn/ygn/list.htm).
 
 ## Research Interests
