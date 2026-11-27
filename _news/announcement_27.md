@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted to ACMMM 2026 as an Oral presentation! 
+One paper was accepted to ACM MM 2026 as an oral presentation!
