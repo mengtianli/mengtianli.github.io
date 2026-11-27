@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mtli@{shu,fudan}.edu.cn</p>
+    <p>mtli@shu.edu.cn; limengtian@sii.edu.cn</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -41,13 +41,12 @@ My current research interests include:
 ## Join Us
 
 We are looking for highly motivated Ph.D., Master's, and undergraduate students interested in **AI for Film, Games, Animation and Art**.
-
 Students with strong technical skills, creativity, independent thinking, and interdisciplinary research interests are particularly welcome.
+For more information, please visit **[MAGIC Lab](https://www.magic-lab.tech/)**.
 
 **欢迎对人工智能与影视、游戏、动画及艺术学科交叉研究感兴趣的博士生、硕士生和本科生加入 MAGIC Lab！**
 
 我们期待具有扎实技术基础、创新意识、独立思考能力和执行力的同学，共同探索人工智能在影视、游戏及艺术创作中的前沿技术与创新应用。
-
 感兴趣的同学欢迎通过邮件与我联系，并附上个人简历。
 
-For more information, please visit **[MAGIC Lab](https://www.magic-lab.tech/)**.
+
